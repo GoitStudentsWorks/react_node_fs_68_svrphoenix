@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_68_svrphoenix/static/css/main.cd301205.css",
-    "main.js": "/react_node_fs_68_svrphoenix/static/js/main.7a5e4054.js",
+    "main.js": "/react_node_fs_68_svrphoenix/static/js/main.d21c5820.js",
     "static/js/82.aa06833a.chunk.js": "/react_node_fs_68_svrphoenix/static/js/82.aa06833a.chunk.js",
     "static/css/355.14c9dc39.chunk.css": "/react_node_fs_68_svrphoenix/static/css/355.14c9dc39.chunk.css",
     "static/js/355.0a7b2574.chunk.js": "/react_node_fs_68_svrphoenix/static/js/355.0a7b2574.chunk.js",
@@ -62,7 +62,7 @@
     "static/media/chevron-left.svg": "/react_node_fs_68_svrphoenix/static/media/chevron-left.53fa2530b71876c38cc132ea7dcdcaa4.svg",
     "static/media/chevron-right.svg": "/react_node_fs_68_svrphoenix/static/media/chevron-right.46dce977f502a466f517ffedbf68a8ea.svg",
     "main.cd301205.css.map": "/react_node_fs_68_svrphoenix/static/css/main.cd301205.css.map",
-    "main.7a5e4054.js.map": "/react_node_fs_68_svrphoenix/static/js/main.7a5e4054.js.map",
+    "main.d21c5820.js.map": "/react_node_fs_68_svrphoenix/static/js/main.d21c5820.js.map",
     "82.aa06833a.chunk.js.map": "/react_node_fs_68_svrphoenix/static/js/82.aa06833a.chunk.js.map",
     "355.14c9dc39.chunk.css.map": "/react_node_fs_68_svrphoenix/static/css/355.14c9dc39.chunk.css.map",
     "355.0a7b2574.chunk.js.map": "/react_node_fs_68_svrphoenix/static/js/355.0a7b2574.chunk.js.map",
@@ -81,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.cd301205.css",
-    "static/js/main.7a5e4054.js"
+    "static/js/main.d21c5820.js"
   ]
 }
