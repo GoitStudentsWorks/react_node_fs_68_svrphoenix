@@ -2,7 +2,7 @@
   "name": "project-group3fe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_68_svrphoenix/",
+  "homepage": "https://goitstudentsworks.github.io/react_node_fs_68_svrphoenix/",
   "dependencies": {
     "@mui/icons-material": "^5.14.3",
     "@mui/material": "^5.14.5",
